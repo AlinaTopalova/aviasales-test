@@ -1,0 +1,25 @@
+body {
+  box-sizing: border-box;
+  background-color: #f3f7fA;
+  font-family: 'Open Sans', 'Arial', sans-serif;
+}
+
+body * {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 0;
+  height: 0;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}

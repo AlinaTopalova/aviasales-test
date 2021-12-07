@@ -1,0 +1,1 @@
+export { useTicketsData } from './useTicketsData';

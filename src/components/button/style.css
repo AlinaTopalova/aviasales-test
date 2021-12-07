@@ -1,0 +1,19 @@
+.button {
+  font-family: 'Open Sans';
+  font-size: 12px;
+  line-height: 16px;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 502px;
+  height: 50px;
+  background-color: #2196F3;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+}
